@@ -1,4 +1,4 @@
-#Nama: Nadine Nur'Aini
+Nama: Nadine Nur'Aini
 #NIM: 2225250004
 #Kelas: 3B
 #Prodi: Pendidikan Matematika 
